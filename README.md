@@ -2,8 +2,6 @@
 
 A high-performance, multi-threaded CORS vulnerability scanner written in Go. This tool helps security researchers and developers identify CORS misconfigurations that could lead to security vulnerabilities.
 
-**Coded by Habib**
-
 ## 🚀 Features
 
 - **Multi-threaded scanning** for fast performance with configurable thread count
@@ -33,7 +31,7 @@ The scanner performs the following security tests:
 ```bash
 # Clone the repository
 git clone <repository-url>
-cd cors-scanner/cors-go
+cd /cors-go
 
 # Install dependencies
 go mod tidy
